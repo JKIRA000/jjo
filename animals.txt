@@ -1,4 +1,5 @@
 tiger 
 lion 
 fox
-shiba inu 
+shiba inu
+bear 
